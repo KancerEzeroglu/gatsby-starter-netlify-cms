@@ -14,6 +14,7 @@ publish_mode: editorial_workflow
 
 collections:
   - name: 'posts' # Used in routes, ie.: /admin/collections/:slug/edit
+    path: 'yavuz/{{slug}}'
     label: 'Posts' # Used in the UI
     label_singular: 'Post' # Used in the UI, ie: "New Post"
     description: >
