@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: test
+image: /img/women-technology-02-1.png
+heading: test
+subheading: test
 mainpitch:
   title: Why KANCER
   description: >
